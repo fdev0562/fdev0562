@@ -7,14 +7,7 @@
 
 <h2 align="center">SUMMARY</h2>
 
-As a Full-stack web developer, I have 7+ years of rich experience.I have deep knowledge of backend
-and frontend JavaScript and several kinds of databases as
-well as great experience with popular frameworks and
-libraries. As well as a deep Mern stack experience, I also
-have other back-end technologies of PHP and its
-Frameworks such as Laravel and CodeIgniter. Since I am
-a Full-Stack developer, I have teamwork skills, time
-management skills, creativity, and web design skills.
+<p align="justify">As a Full-stack web developer, I have 5+ years of rich experience.I have deep knowledge of backend and frontend JavaScript and several kinds of databases as well as great experience with popular frameworks and libraries. As well as a deep Mern stack experience, I also have other back-end technologies of PHP and its Frameworks such as Laravel and CodeIgniter. Since I am a Full-Stack developer, I have high teamwork skills, fast learning skills, time management skills, creativity, and web design skills.</p>
 
 ## ✨ Senior Full-stack Developer ✨
 - 5+ years of rich experience in React/Vue/Next/Nuxt.
