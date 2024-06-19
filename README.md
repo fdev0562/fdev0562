@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/And2224"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=600&size=28&pause=1000&center=true&random=false&width=700&lines=Senior+Full-stack+Egineer;7%2B+years+of+rich+experience+of+Web+Development+;Certificated+Web+Expert" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://github.com/And2224"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=600&size=28&pause=1000&center=true&random=false&width=700&lines=Senior+Full-stack+Developer;5%2B+years+of+rich+experience+in+Web+and+Mobile+Development+;Certificated+Web+Expert" alt="Typing SVG" /></a></h1>
 
 [ Perfect result | Best Quality | On-time Delivery ]
 [ App architecture | Clean code | Product design | Continuous integration | Task prioritization | Automatic deployment | Teamwork ]
@@ -17,11 +17,15 @@ a Full-Stack developer, I have teamwork skills, time
 management skills, creativity, and web design skills.
 
 ## ✨ Senior Full-stack Developer ✨
-- 7 years of rich experience in React/Vue/Next/Nuxt.
+- 5+ years of rich experience in React/Vue/Next/Nuxt.
 - Deep Knowledge of Node.js/PHP.
 - Expertise in responsible UI Frameworks such as AntDesign, Material-ui and so on.
-- Bset API design, deveopement and integration using Node.js/Express.js/Laravel/CodeIgniter.
+- Bset API design, deveopement and integration using Node.js/Express.js/Nest.js/Laravel/CodeIgniter.
+- Expertise in Database Systems like MySQL, PostgreSQL, Couch and MongoDB
+- Strong Experience in Mobile Development: iOS/Android, Flutter, React-native, Swift.
+- API Integrations like Paypal, Stripe.js.
 - High performance using SSR, code optimization.
+- High teamwork and time management skills.
 <hr height="2px" />
 <div align="center">
   <h2>Languages and tools</h2>
