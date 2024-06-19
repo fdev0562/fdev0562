@@ -1,7 +1,7 @@
-<h1 align="center"><a href="https://github.com/And2224"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=600&size=28&pause=1000&center=true&random=false&width=700&lines=Senior+Full-stack+Developer;5%2B+years+of+rich+experience+in+Web+and+Mobile+Development+;Certificated+Web+Expert" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://github.com/And2224"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=600&size=28&pause=1000&center=true&random=false&width=900&lines=Senior+Full-stack+Developer;5%2B+years+of+rich+experience+in+Web+and+Mobile+Development+;Certificated+Web+Expert" alt="Typing SVG" /></a></h1>
 
 [ Perfect result | Best Quality | On-time Delivery ]
-[ App architecture | Clean code | Product design | Continuous integration | Task prioritization | Automatic deployment | Teamwork ]
+[ App architecture | Clean code | Product design | Continuous integration | Task prioritization | Automatic deployment | Teamwork | Fast-Learning ]
 
 <hr />
 
