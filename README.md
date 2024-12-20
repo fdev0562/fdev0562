@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/And2224"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=600&size=28&pause=1000&center=true&random=false&width=900&lines=Senior+Full-stack+Developer;5%2B+years+of+rich+experience+in+Web+and+Mobile+Development+;Certificated+Web+Expert" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://github.com/And2224"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=600&size=28&pause=1000&center=true&random=false&width=900&lines=Senior+Full-stack+Developer;Rich+experience+in+Web+and+Mobile+Development+;Certificated+Web+Expert" alt="Typing SVG" /></a></h1>
 
 [ Perfect result | Best Quality | On-time Delivery ]
 [ App architecture | Clean code | Product design | Continuous integration | Task prioritization | Automatic deployment | Teamwork | Fast-Learning ]
@@ -7,18 +7,18 @@
 
 <h2 align="center">SUMMARY</h2>
 
-<p align="justify">As a Full-stack web developer, I have 5+ years of rich experience.I have deep knowledge of backend and frontend JavaScript and several kinds of databases as well as great experience with popular frameworks and libraries. As well as a deep Mern stack experience, I also have other back-end technologies of PHP and its Frameworks such as Laravel and CodeIgniter. Since I am a Full-Stack developer, I have high teamwork skills, fast learning skills, time management skills, creativity, and web design skills.</p>
+<p align="justify">As a dedicated Full Stack Developer, I specialize in creating robust, high-performance web applications using modern JavaScript frameworks and libraries, including the MERN Stack (MongoDB, Express.js, React, Node.js) and Next.js. I am passionate about building dynamic, scalable, and SEO-optimized solutions that deliver exceptional user experiences.</p>
 
-## ✨ Senior Full-stack Developer ✨
-- 5+ years of rich experience in React/Vue/Next/Nuxt.
-- Deep Knowledge of Node.js/PHP.
-- Expertise in responsible UI Frameworks such as AntDesign, Material-ui and so on.
-- Bset API design, deveopement and integration using Node.js/Express.js/Nest.js/Laravel/CodeIgniter.
-- Expertise in Database Systems like MySQL, PostgreSQL, Couch and MongoDB
-- Strong Experience in Mobile Development: iOS/Android, Flutter, React-native, Swift.
-- API Integrations like Paypal, Stripe.js.
-- High performance using SSR, code optimization.
-- High teamwork and time management skills.
+<p>My expertise spans across:</p>
+
+<p align="justify">✅ Frontend Development: Crafting responsive and interactive UIs with React.js, Next.js, Vue.js, and modern styling tools like Tailwind CSS and SCSS.</p>
+<p align="justify">✅ Backend Development: Designing scalable RESTful APIs and server-side applications using Node.js, Express.js, PHP and Laravel.</p>
+<p align="justify">✅ Database Management: Implementing efficient data handling with MongoDB, MySQL, or PostgreSQL.</p>
+<p align="justify">✅ Full Stack Architectures: Developing end-to-end solutions with frameworks like MERN Stack to ensure seamless integration between client and server.</p>
+
+<p align="justify">I prioritize clean, maintainable code, follow agile practices, and integrate DevOps tools to enhance workflows and application deployment. Whether you need a new application built from scratch or an existing system optimized, I bring technical expertise and effective communication to every project.
+</p>
+
 <hr height="2px" />
 <div align="center">
   <h2>Languages and tools</h2>
